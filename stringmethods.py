@@ -1,0 +1,11 @@
+greet = "Hello"
+print(len(greet))
+print(greet.upper())
+print(greet.lower())
+print(greet)
+print(greet.find('h'))
+print(greet.find('l'))
+print(greet.replace('Hello', 'Hii'))
+print(greet.replace('hello', 'Hii'))
+print("h" in greet)
+print("l" in greet)
